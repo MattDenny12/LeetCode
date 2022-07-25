@@ -2,6 +2,12 @@ package com.leetcode.problems._0001twosum;
 
 import java.util.HashMap;
 
+/**
+ * <a href="https://leetcode.com/problems/two-sum/">Problem Link</a><br><br>
+ *
+ * Runtime: 2ms (94.24%) <br>
+ * Memory: 45 MB (59.53%)
+ */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         // Key is the number and value is the index

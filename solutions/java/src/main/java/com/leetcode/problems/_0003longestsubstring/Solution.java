@@ -2,6 +2,12 @@ package com.leetcode.problems._0003longestsubstring;
 
 import java.util.HashMap;
 
+/**
+ * <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Problem Link</a><br><br>
+ *
+ * Runtime: 9ms (73.50%) <br>
+ * Memory: 45.1 MB (45.86%)
+ */
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         HashMap<Character, Integer> indices = new HashMap<>();
