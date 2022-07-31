@@ -1,5 +1,7 @@
 package com.leetcode.problems._0002addtwonumbers;
 
+import com.leetcode.datastructures.ListNode;
+
 /**
  * <a href="https://leetcode.com/problems/add-two-numbers/">Problem Link</a><br><br>
  *

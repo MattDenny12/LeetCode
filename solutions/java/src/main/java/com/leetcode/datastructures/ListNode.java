@@ -1,4 +1,4 @@
-package com.leetcode.problems._0002addtwonumbers;
+package com.leetcode.datastructures;
 
 import java.util.LinkedList;
 
